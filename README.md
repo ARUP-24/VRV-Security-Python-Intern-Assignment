@@ -68,15 +68,13 @@ The script implements the following functionalities:
 
 ## File Structure
 
----
+
 .
 ├── VRV_Security_Assignment.ipynb  # Jupyter notebook with the complete solution
 ├── sample.log                    # Example log file for testing
 ├── log_analysis_results.csv      # Output CSV file with analysis results
 └── README.md                     # Project documentation
----
 
----
 
 ## Requirements
 
