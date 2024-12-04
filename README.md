@@ -75,6 +75,7 @@ The script implements the following functionalities:
 ├── log_analysis_results.csv      # Output CSV file with analysis results
 └── README.md                     # Project documentation
 
+---
 
 ## Requirements
 
